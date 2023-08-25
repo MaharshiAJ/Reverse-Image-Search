@@ -1,1 +1,1 @@
-# Reverse-Image-Search
+This repo contains the code for a reverse image search as a part of my Intro to Artificial Intelligence class at NYU Tandon School of Engineering.
